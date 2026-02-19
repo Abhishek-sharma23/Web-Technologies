@@ -1,0 +1,18 @@
+.Nav{
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(148, 245, 112);
+    color: black;
+}
+.Nav a:hover {
+    color: white;
+    background-color: #f2b6a4;
+}
+.h{
+    text-align: center;
+    font-size: 50px;   
+}
+.b{
+    background-color: bisque;
+    font-size: 25px;
+}
